@@ -12,4 +12,3 @@ Homework analyzing a dataset of cats and dogs, global billionaires using **panda
 - Filtered data using `.query()` and `.isin()`
 - Created visualizations: horizontal bar charts, histograms, scatterplots, and bar graphs
 - Read in JSON data with `pd.read_json()`
-
